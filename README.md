@@ -30,8 +30,8 @@
   <div align=center>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=amirreza-zeraati&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Card">
     <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=amirreza-zeraati&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats Card">
-    <img width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirreza-zeraati&theme=nord_dark&utcOffset=8" alt="Commit Card">
-    <img width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirreza-zeraati&theme=nord_dark" alt="Top Languages by Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirreza-zeraati&theme=nord_dark&utcOffset=8" alt="Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirreza-zeraati&theme=nord_dark" alt="Top Languages by Commit Card">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza-zeraati&theme=nord"/>
     </div>
 
