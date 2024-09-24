@@ -17,11 +17,9 @@
 
 
 - 🎓 Computer engineer student at HSU
-- 🔭 I’m currently working on a massive project
-- 🌱 I’m currently learning AI & ML
+- 🌱 I’m currently learning Go
 - 💻 Love to coding stuff
 - 🤔 Looking for open source to contribute
-- 🎵 Dealing with audio processing as hobby
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3)
 
